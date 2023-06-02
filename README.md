@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 -->
 
 
-
+# 📜 Portfolio
+[Notion Portfolio](https://vaulted-key-9d6.notion.site/072d81d8eb6e4f1a915bc7e7c69b16fd)
 
 
 # 💻 Tech Stack:
