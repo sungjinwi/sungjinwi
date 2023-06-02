@@ -1,8 +1,8 @@
 # 💫 About Me:
-I'm fullstack and blockchain developer.
-Studying blockchain and web programming at KBAC(Korea AI Blockchain Convergence).
-Wating for WEB3 world 
-let's BUIDL!
+I'm fullstack and blockchain developer. <br>
+Studying blockchain and web programming at KBAC(Korea AI Blockchain Convergence). <br>
+Wating for WEB3 world. <br>
+### let's BUIDL!!
 
 <!--
 **sungjinWi/sungjinWi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
